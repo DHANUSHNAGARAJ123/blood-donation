@@ -211,31 +211,27 @@ Do not upload sensitive credentials to GitHub.
 
 Make sure `.env` is included in `.gitignore`.
 
-## 📸 Screenshots
+### 📸 Project Screenshots
 
+All screenshots are available in the `screenshots` folder.
 
-```
+#### 1. Home Page
+![Home Page](screenshots/home.png)
 
-### Why Give Blood Page
+#### 2. Why Give Blood
+![Why Give Blood](screenshots/why%20give%20blood.png)
 
-![Why Give Blood](screenshots/why-give-blood.png)
+#### 3. Blood Request
+![Blood Request](screenshots/blood%20request.png)
 
-*The Why Give Blood page explains the importance and benefits of donating blood.*
+#### 4. Donate Now
+![Donate Now](screenshots/donar%20now.png)
 
-## 🚀 Future Enhancements
+#### 5. User Registration
+![Register](screenshots/register.png)
 
-- Location-based nearby blood donor search.
-- Blood group-based donor filtering.
-- Emergency blood request notifications.
-- Donor availability management.
-- Improved donor and recipient communication.
-- Responsive design improvements.
-- Blood donation history and tracking.
-
-## 🎯 Expected Impact
-
-This project aims to encourage voluntary blood donation, increase public awareness, and make blood donation-related information more accessible through a digital platform.
-
+#### 6. Contact Us
+![Contact Us](screenshots/contact%20us.png)
 ## 👨‍💻 Developer
 
 **Dhanush Nagaraj**
